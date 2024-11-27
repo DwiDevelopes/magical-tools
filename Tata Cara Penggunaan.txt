@@ -1,0 +1,35 @@
+// Tata Cara Penggunaan Aplikasi Format (EXE) 
+
+# 1 Ambil Gambar Dari Website Atau Gambar Sendiri
+
+# 2 Setelah Itu Satukan Dengan File Exe
+
+# 3 Buka Apikasi nya
+
+# 4 Setelah itu Tulis formatnya yang kalian masukan secara bersamaan
+
+# 5 Dan Hasilnya Yang Kalian Inginkan Muncul Di Terminal Aplikasi Kalian 
+
+# 6 Kalian Bisa Save Atau Tida Sesuai Dengan Keinginan 	Kalian
+
+# 7 Setalah Masuk Ke File Gambar Tersebut Kalian Bisa oprasikan Dalam Bentuk Program Dan Juga Program Bash
+
+# 8 Bisa Di Gunakan Untuk Membuat Aplikasi Bash Pada Linux Dan Termux 
+
+
+// Contoh Pada File Yang Sudah Di Sediakan
+
+# 1 Masukan Gambar Bersama File Exe
+
+# 2 Jalankan Aplikasinya
+
+# 3 Ketik Format Sesuai Dengan Format Foto Kalian go.jpg
+
+# 4 Kalian Save Dalam Bentuk Gambar Png
+
+# 5 Nama NYa Kalian Bebas Asalkan Formatnya PNG
+
+# 6 Setelah selesai Akan Muncul Source Code Dalam Bentuk Gambar PNG
+
+
+informasi : Aplikasi Ini Dilindungi Hak Cipta Dwi Bakti N DeV / Roy
