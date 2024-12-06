@@ -1,0 +1,35 @@
+// Tata Cara Penggunaan Aplikasi Format (py) 
+
+# 1 Download python dan install python setelah itu Download Viscode
+
+# 2 Setelah Sudah Buka Dan Jalankan
+
+# 3 Setelah itu Masukan File Yang ingin Di Hapus BAGROUND
+
+# 4 file tersebut harus dalam file codingan py
+
+# 5 Masukan Format Sesuai Keinginan
+
+# 6 setelah itu kalian bisa masukan file sesuai keinginan kalian
+
+# 7 dan setelah itu hapus bg sesuai format yang di butuhkan
+
+# 8 baground Terhapus Dengan Sempurna
+
+
+// Contoh Pada File Yang Sudah Di Sediakan
+
+# 1 Masukan Gambar Bersama File py
+
+# 2 Jalankan py
+
+# 3 Ketik Format Sesuai Dengan Format Foto Kalian anime.jpg
+
+# 4 Kalian Save Dalam Bentuk Gambar bebas 
+
+# 5 Nama NYa Kalian Bebas formatnya juga bebas
+
+# 6 Setelah selesai Akan Muncul gambar yang terhapus sesuai keinginan kalian
+
+
+informasi : Aplikasi/Codingan Python Ini Dilindungi Hak Cipta Dwi Bakti N DeV / Roy Kalian Bisa Menggunakan dengan sebaik mungkin
